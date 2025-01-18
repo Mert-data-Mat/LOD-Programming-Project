@@ -48,3 +48,11 @@ Developers:
 -Yusuf Mirza Gündüz / 24425893
 
 Chess Piece Images: Sourced from Wikipedia.com
+
+What we learned: 
+Mert :
+Implementing functions like get_valid_moves(), is_in_check(), and is_checkmate() helped me understand how complex systems can be broken down into smaller parts and i learned how to use dictionaries.
+Betul :
+I worked with 2d lists to represent the chessboard, debugged movement errors when implementing piece movement rules, learned how to draw a chessboard using pygame library functions.
+Yusuf:
+Learned how to store and retrieve data using JSON. Learned pygame libraries basics, especially real-time user interactions like capturing mouse clicks.
