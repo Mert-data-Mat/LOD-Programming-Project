@@ -3,9 +3,13 @@ Python Chess Game
 A graphical chess game implemented in Python using the Pygame library. This game provides a visual interface for two players to play chess locally on the same computer.
 
 Features
+
 Interactive Chessboard: A fully functional chessboard with highlighted squares for selected pieces and valid moves.
+
 Piece Movement Rules: Implements correct movement rules for all chess pieces (pawns, knights, bishops, rooks, queens, and kings).
+
 Save and Load Game: Save the current game state to a file. 
+
 Load a previously saved game to continue playing.
 
 Visual Feedback: Highlights the selected square and valid moves for intuitive gameplay.
